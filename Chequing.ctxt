@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Chequing
+comment0.text=\r\n\ Programmer\:\ \ \ \ sveinson\r\n\ Class\:\ \ CS30S\r\n\r\n\ Assignment\:\ Practitioner\ example\r\n\r\n\ Description\:\ Practitioner\ class,\ this\ is\ the\ super\ class\r\n
+comment1.params=fn\ ln\ cb\ f
+comment1.target=Chequing(java.lang.String,\ java.lang.String,\ double,\ double)
+comment2.params=fn\ ln\ cb
+comment2.target=Chequing(java.lang.String,\ java.lang.String,\ double)
+comment3.params=amt
+comment3.target=void\ cashCheque(double)
+numComments=4
